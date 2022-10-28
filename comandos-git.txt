@@ -1,0 +1,11 @@
+git init > inicia o repositório
+git status 
+git add (nome_arquivo.extensao)
+git commit -m "descrever as alterações"
+git remote add (URL_github)
+git push --set-upstream origin master
+git reflog > traz as alterações realizadas
+git reset --hard (id do reflog)
+git branch > listar as branches
+git branch (nome_branch) > criar uma nova branch
+git checkout staging
